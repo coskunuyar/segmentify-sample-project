@@ -15,21 +15,21 @@ class Slider {
     
     $(".stop").hide();
 
-    $(".next").click(function(){
+    $(".next").click(() => {
       owl.trigger('next.owl.carousel');
     })
 
-    $(".prev").click(function(){
+    $(".prev").click(() => {
       owl.trigger('prev.owl.carousel');
     })
 
-    $(".play").click(function(){
+    $(".play").click(() => {
       $(".play").hide();
       $(".stop").show();
       owl.trigger('play.owl.autoplay',850);
     })
 
-    $(".stop").click(function(){
+    $(".stop").click(() => {
       $(".stop").hide();
       $(".play").show();
       owl.trigger('stop.owl.autoplay');
