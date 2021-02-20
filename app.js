@@ -19,7 +19,6 @@ const app = () => {
       nav: false,
       autoplayTimeout: 850,
       autoplayHoverPause: true,
-      center: true,
       responsive:{
         0:{
           items:1
