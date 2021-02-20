@@ -1,0 +1,16 @@
+@import url('slider/index.css');
+
+body {
+  margin-top: 45px;
+  margin-left: 15%;
+  margin-right: 15%;
+  font-family: 'EB Garamond', serif !important;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+  color: inherit;
+  text-decoration: none !important;
+}
