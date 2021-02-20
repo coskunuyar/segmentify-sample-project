@@ -2,4 +2,4 @@
 
 ## Final Version
 
-<img src="./_dependecies/finalised.png" alt="screen-shot" />
+<img src="https://github.com/coskunuyar/segmentify-sample-project/blob/master/_dependencies/finalised.png?raw=true" alt="screen-shot" />
